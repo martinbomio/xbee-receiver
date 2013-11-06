@@ -1,6 +1,8 @@
 *.class
 
 # Package Files #
+*.idea
+*.jnilib
 *.jar
 *.war
 *.ear
